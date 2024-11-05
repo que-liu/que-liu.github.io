@@ -11,54 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. at University of Shanghai for Science and Technology, 2021 - 2025 (Expected)
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Human-Computer Interaction Research Group, Jul 2024 -- Present
+  * [University of Notre Dame](https://cse.nd.edu/)
+  * Integrated ROS (Robot Operating System) with visual SLAM (Simultaneous Localization and Mapping) to achieve real-time scene understanding and environmental mapping in mixed reality setups.
+  * Developed a VR meeting room prototype using Unity and Photon Networking to create multi-user, immersive environments, improving virtual collaboration in distributed teams.
+  * Applied Unity’s XR interaction toolkit to create intuitive user controls and interactions, ensuring seamless communication between the VR hardware and software.
+  * Participated in interdisciplinary research discussions and paper writing, focusing on the impact of immersive technologies on human-computer interaction and usability.
+  * Collaborated with teams on mixed reality projects that leveraged AI-driven environmental recognition to enhance object detection and manipulation in virtual and augmented spaces.
+  * Supervisor: [Prof. Diego Gómez-Zará](https://www.dgomezara.cl/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer Undergraduate Research, Aug 2023 -- Jan 2024
+  * [University of Illinois at Urbana-Champaign](https://siebelschool.illinois.edu/)
+  * Assisted in identifying and establishing a pipeline of clients for library translation services, while testing compatibility and stability of client integrations.
+  * Collaborated with professors and peers on a research paper.
+  * Leveraged Linux environments for efficient development, utilizing Docker containers for consistent development setups and scaling applications. Utilized GitHub for team collaboration and code review.
+  * Modified and optimized XML configuration files for better modularity and compatibility across multiple Maven-based Java projects.
+  * Resolved complex Python packaging and dependency conflicts within Java runtime environments, enhancing cross-language integration.
+  * Gained hands-on software engineering experience including troubleshooting, code optimization, and environment setup.
+  * Supervisor: [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming
+  * Python, C\#, C, C++, SQL, Java, Matlab
+* Tools and Frameworks
+  * ROS, Unity, Google Cloud Platform, Docker, Git
+* Machine Learning Libraries
+  * PyTorch, TensorFlow
+* Engineering
+  * Realsense, Altium, Keil, PCB design
