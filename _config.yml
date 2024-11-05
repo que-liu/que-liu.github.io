@@ -24,9 +24,9 @@ author:
   avatar           : "queliu.png"
   name             : "Que Liu"
   pronouns         : "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Shanghai, China"
-  employer         : "University of Shanghai for Science and Technology"
+  employer         : # "University of Shanghai for Science and Technology"
   uri              : # URL
   email            : "queliu@outlook.com" 
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/que-liu"
+  github           : "que-liu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
