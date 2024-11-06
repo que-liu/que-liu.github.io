@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Que Liu, a senior year undergraduate student at University of Shanghai for Science and Technology majoring in Intelligence Science and Technology. My research interest includes robotics, control theory and human-robot interaction.
+Hello! I'm Que Liu, a senior year undergraduate student majoring in Intelligence Science and Technology at University of Shanghai for Science and Technology. My research interest includes robotics, control theory and human-robot interaction.
 
-You can find my CV here: [Que Liu's Curriculum Vitae](../assets/CV.pdf).
+You can find my CV here: [Que Liu_CV.pdf](../assets/CV.pdf).
 
 [Email](qliu9@nd.edu) / [LinkedIn](https://www.linkedin.com/in/que-liu-24b0972aa/)
 
 
 Experience
 ======
-I am currently a research assistant in the HCI research group advised by [Prof.Diego Gómez-Zará](https://www.dgomezara.cl/) from [Department of Computer Science and Engineering](https://cse.nd.edu/) at [University of Notre Dame](https://www.nd.edu/). Previously, I was fortunate to participate in the Remote Mini-Crowd Undergraduate Summer Research Program focused on code translation in software engineering supervised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) from [Department of Computer Science](https://siebelschool.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://www.illinois.edu/).
+I am currently a research assistant conducting research in virtual reality and mixed reality advised by [Prof. Diego Gómez-Zará](https://www.dgomezara.cl/) from [Department of Computer Science and Engineering](https://cse.nd.edu/) at [University of Notre Dame](https://www.nd.edu/). Previously, I was fortunate to participate in the Remote Mini-Crowd Undergraduate Summer Research Program focused on code translation in software engineering supervised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) from [Department of Computer Science](https://siebelschool.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://www.illinois.edu/).
 
 Research Interest
 ======
