@@ -12,7 +12,7 @@ Hello! I'm Que Liu, a senior year undergraduate student at University of Shangha
 
 You can find my CV here: [Que Liu's Curriculum Vitae](../assets/CV.pdf).
 
-[Email](qliu9@nd.edu) / [Github](https://github.com/que-liu) / [LinkedIn](https://www.linkedin.com/in/que-liu-24b0972aa/)
+[Email](qliu9@nd.edu) / [LinkedIn](https://www.linkedin.com/in/que-liu-24b0972aa/)
 
 
 Experience
