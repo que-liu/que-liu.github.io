@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Que Liu / 刘缺"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Que Liu"
+description              : &description "personal website for more information"
 url                      : https://que-liu.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "que-liu/que-liu.github.io"
