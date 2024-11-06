@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "Que Liu"
 author_profile: true
 redirect_from: 
   - /about/
