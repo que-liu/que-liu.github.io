@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Que Liu, a senior year undergraduate student at University of Shanghai for Science and Technology majoring in Intelligence Science and Technology. My research interest includes robotics, control theory and artificial intelligence.
+Hello! I'm Que Liu, a senior year undergraduate student at University of Shanghai for Science and Technology majoring in Intelligence Science and Technology. My research interest includes robotics, control theory and human-robot interaction.
 
 You can find my CV here: [Que Liu's Curriculum Vitae](../assets/CV.pdf).
 
@@ -17,7 +17,7 @@ You can find my CV here: [Que Liu's Curriculum Vitae](../assets/CV.pdf).
 
 Experience
 ======
-I am currently a research assistant in the HCI research group advised by [Prof.Diego Gómez-Zará](https://www.dgomezara.cl/) from [Department of Computer Science and Engineering](https://cse.nd.edu/) at [University of Notre Dame](https://www.nd.edu/). Previously, I was fortunate to participate in the Remote Mini-Crowd Undergraduate Summer Research Program focused on code translation in software engineering supervised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/).
+I am currently a research assistant in the HCI research group advised by [Prof.Diego Gómez-Zará](https://www.dgomezara.cl/) from [Department of Computer Science and Engineering](https://cse.nd.edu/) at [University of Notre Dame](https://www.nd.edu/). Previously, I was fortunate to participate in the Remote Mini-Crowd Undergraduate Summer Research Program focused on code translation in software engineering supervised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) from [Department of Computer Science](https://siebelschool.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://www.illinois.edu/).
 
 Research Interest
 ======
@@ -28,4 +28,6 @@ With the vision of enabling robots to not only emulate human capabilities but al
 
 Miscellaneous
 ------
-I'm the first-gen college student and grateful for all the help and guidance through my personal growth. 
+Outside the academics, I enjoy photography, filming, and staying active through gym workouts and long-distance running.
+
+As a first-generation college student, I am deeply grateful for the support and guidance I have received throughout my academic journey. Motivated by this experience, I am committed to contributing to a more inclusive and equitable academic community—one where individuals are valued for their abilities and potential, regardless of background, race, or beliefs.
