@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I'm Que Liu, a senior year undergraduate student majoring in Intelligence Science and Technology at University of Shanghai for Science and Technology. My research interest includes robotics, control theory and human-robot interaction.
 
-For detailed information, you can find my CV [here](../assets/CV.pdf).
+For detailed information, you can find my CV [here](../assets/CV_Que_Liu.pdf).
 
 
 Experience
