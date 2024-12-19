@@ -7,5 +7,5 @@ excerpt: 'This paper proposed the idea of testing the translated code using the 
 date: 08-16-2024
 venue: 'ICSME-NIER24'
 paperurl: 'https://www.cs.cornell.edu/~saikatd/papers/gluetest-icsme-nier24.pdf'
-citation: 'Muhammad Salman Abid, Mrigank Pawagi, Sugam Adhikari, Xuyan Cheng, Ryed Badr, Md Wahiduzzaman, Vedant Rathi, Ronghui Qi, Choiyin Li, Lu Liu, Rohit Sai Naidu, Licheng Lin, Que Liu, Asif Zubayer Palak, Mehzabin Haque, Xinyu Chen, Darko Marinov, and Saikat Dutta. &quot;GlueTest: Testing Code Translation via Language Interoperability.&quot; <i>In Proceedings of the 40th International Conference on Software Maintenance and Evolution (ICSME’24) - NIER Track</i>., 2024.'
+citation: 'Muhammad Salman Abid, Mrigank Pawagi, Sugam Adhikari, Xuyan Cheng, Ryed Badr, Md Wahiduzzaman, Vedant Rathi, Ronghui Qi, Choiyin Li, Lu Liu, Rohit Sai Naidu, Licheng Lin, Que Liu, Asif Zubayer Palak, Mehzabin Haque, Xinyu Chen, Darko Marinov, and Saikat Dutta. &quot;GlueTest: Testing Code Translation via Language Interoperability.&quot; <i>In Proceedings of the 40th International Conference on Software Maintenance and Evolution (ICSME’24) - NIER Track</i>, 2024.'
 ---
