@@ -11,7 +11,7 @@ Hello! I'm Que Liu, a senior year undergraduate student majoring in Intelligence
 
 For detailed information, you can find my CV [here](../assets/CV_Que_Liu.pdf).
 
-**I'm looking for 2026 FALL PhD opportunities! You can contact me via queliu@outlook.com | queliu@vt.edu**
+**I'm looking for 2026 FALL PhD opportunities!** You can contact me via queliu@outlook.com or queliu@vt.edu
 
 
 Experience
