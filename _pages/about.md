@@ -11,16 +11,17 @@ Hello! I'm Que Liu, a senior year undergraduate student majoring in Intelligence
 
 For detailed information, you can find my CV [here](../assets/CV_Que_Liu.pdf).
 
+**I'm looking for 2026 FALL PhD opportunities! You can contact me via queliu@outlook.com | queliu@vt.edu**
+
 
 Experience
 ======
-I am currently a research assistant conducting research in virtual reality and mixed reality advised by [Prof. Diego Gómez-Zará](https://www.dgomezara.cl/) from [Department of Computer Science and Engineering](https://cse.nd.edu/) at [University of Notre Dame](https://www.nd.edu/). Previously, I was fortunate to participate in the Remote Mini-Crowd Undergraduate Summer Research Program focused on code translation in software engineering supervised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) from [Department of Computer Science](https://siebelschool.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://www.illinois.edu/).
+I am currently a research assistant conducting research in control theory under supervision by [Prof. Andrea L'Afflitto](https://lafflitto.com/) from [Grado Department of Industrial and Systems Engineering](https://www.ise.vt.edu/) at [Virginia Tech](https://www.vt.edu/).
+Previously, I was fortunate to participate in [iSURE Program](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) conducting research in virtual reality and mixed reality advised by [Prof. Diego Gómez-Zará](https://www.dgomezara.cl/) from [Department of Computer Science and Engineering](https://cse.nd.edu/) at [University of Notre Dame](https://www.nd.edu/). I also participated in the Remote Mini-Crowd Undergraduate Summer Research Program focused on code translation in software engineering supervised by [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/) from [Department of Computer Science](https://siebelschool.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://www.illinois.edu/).
 
 Research Interest
 ======
-Inspired by [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox) and studies in artificial intelligence and control theory, I have developed a strong interest in advancing the foundational theories that empower robots with physical intelligence similar to that of humans. My academic background in these fields has equipped me with a solid understanding of the principles that govern autonomous systems. Additionally, my research in human-computer interaction has provided valuable insight into the importance of human factors in the design of robust robotic systems. These human factors introduce uncertainties that must be carefully addressed to achieve reliable, adaptive control.
-
-With the vision of enabling robots to not only emulate human capabilities but also interact seamlessly with the world around them, I am eager to contribute to the advancement of **control theory**, **robotics**, and **human-robot interaction**. I am excited about the opportunity to explore how these interdisciplinary fields can work together to create more intelligent and adaptive systems.
+How can we bring scientific breakthroughs from theory to real life? Standing at the forefront of a new era defined by advancements in artificial intelligence, I find [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox) increasingly urgent: machines can outperform humans in logic, yet still fail at tasks requiring perception, adaptability, and intuition. As an Asian female and first-generation college student from a low-income family, I’m driven to ensure that emerging technologies serve broader communities. To achieve this goal, how can we ensure that autonomous systems not only act intelligently but also safely and reliably in the real world? This question defines my motivation. My goal is to **design control architectures that guarantee stability, safety, and adaptability—developing provably adaptive and safe control algorithms that bridge the gap between intelligence and trust in autonomous systems**.
 
 
 Miscellaneous
